@@ -1,0 +1,29 @@
+{
+  "name": "heat-cluster-node",
+  "version": "0.0.1",
+  "description": "Heat Node Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heatjs/heat-cluster-node.git"
+  },
+  "keywords": [
+    "Heat",
+    "Cluster",
+    "Node"
+  ],
+  "author": "Katja Lutz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heatjs/heat-cluster-node/issues"
+  },
+  "homepage": "https://github.com/heatjs/heat-cluster-node#readme",
+  "dependencies": {
+    "hapi": "^16.1.0",
+    "js-yaml": "^3.8.1",
+    "nedb": "^1.8.0"
+  }
+}
