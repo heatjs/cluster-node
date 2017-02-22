@@ -11,7 +11,7 @@ pids
 # Database
 data
 
-config
+config/*
 !config/default.yaml
 !config/*example.yaml
 
